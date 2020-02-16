@@ -1,0 +1,5 @@
+{
+	"SECRET": "YOUR_SECRET",
+	"PORT": 8080,
+	"REPO": "/absolute/path/to/your/repo"
+}
